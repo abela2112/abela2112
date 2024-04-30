@@ -16,7 +16,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Hi there 👋
+### Hi there 👋 , I'm Abel 
+<a href="https://abela-portifolio.netlify.app//"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Software+Engineer;Full-stack+Developer" alt="Typing SVG" /></a>
+
 
 - 🔭 I’m currently working on React | NodeJs | Express ...
 - 🌱 Open for Remote Jobs
@@ -29,8 +31,7 @@ Here are some ideas to get you started:
   
 ![abela2112's Stats](https://github-readme-stats.vercel.app/api?username=abela2112&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
 
-## About Me
-Hello there! I'm Abel Ayalew, a passionate software developer with a love for coding and problem-solving. I enjoy working on web development projects.
+
 <h2>Languages and Tools</h2>
 <div>
 <p> 
@@ -63,10 +64,9 @@ Hello there! I'm Abel Ayalew, a passionate software developer with a love for co
 ## Projects
 Here are some of the projects I've worked on:
 
-- [Admin_dashboard](https://shoppfy-admin-dashboard.netlify.app): Brief description of the project.
-- [Music-app](link-to-project-2): Brief description of the project.
-- [Airbnb clone] (link-to-project-3): Brief description of the project.
-
+- [Admin_dashboard](https://shoppfy-admin-dashboard.netlify.app)
+- [Bella shop](https://bellashop12.netlify.app): 
+- [Airbnb clone](https://airdrop-clone.netlify.app):
 ## Contact Me
 - Email: abela9326@gmail.com
 - LinkedIn:https://www.linkedin.com/in/abel-ayalew-528787195/ 
