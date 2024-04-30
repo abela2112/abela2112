@@ -1,4 +1,4 @@
-### Hi there 👋 
+ 
 
 <!--
 **abela2112/abela2112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,28 +16,31 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### -🔭 I’m currently working on React | Node | Expressjs |React Native
-###    Open for Remote Jobs
-### - 👯 I’m looking to collaborate on a Web project using React & NodeJs
-### - 🤔 I’m looking for help with a full-time job...
-### - 💬 Ask me about React | NodeJs | Typescript ..
-### - 📫 How to reach me: https://www.linkedin.com/in/abel-ayalew-528787195/
+### Hi there 👋
+
+- 🔭 I’m currently working on React | NodeJs | Express ...
+- 🌱 Open for Remote Jobs
+- 👯 I’m looking to collaborate on a Web project using React & NodeJs
+- 🤔 I’m looking for help with a full-time job...
+- 💬 Ask me about React | NodeJs | Typescript ...
+- 📫 How to reach me: https://www.linkedin.com/in/mikiyas-wendmneh/
+- ⚡ Fun fact: I build furniture
 
 ## About Me
 Hello there! I'm Abel Ayalew, a passionate software developer with a love for coding and problem-solving. I enjoy working on web development projects.
 
 ## Skills
-- Programming Languages: [List of programming languages you are proficient in]
-- Frameworks and Libraries: [List of frameworks and libraries you have experience with]
-- Tools and Technologies: [List of tools and technologies you are familiar with]
-- Other Skills: [Any other relevant skills you want to highlight]
+- Programming Languages: Javascript,typescript,java,C++,python,php
+- Frameworks and Libraries: NextJs,Expressjs,React, Laravel,Angular
+- Tools and Technologies: Git Figma
+- Other Skills: drawing
 
 ## Projects
 Here are some of the projects I've worked on:
 
-- [Project 1](link-to-project-1): Brief description of the project.
-- [Project 2](link-to-project-2): Brief description of the project.
-- [Project 3](link-to-project-3): Brief description of the project.
+- Admin_dashboard(link-to-project-1): Brief description of the project.
+- Music-app(link-to-project-2): Brief description of the project.
+- Airbnb clone (link-to-project-3): Brief description of the project.
 
 ## Contact Me
 - Email: abela9326@gmail.com
