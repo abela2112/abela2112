@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Hi there 👋 , I'm Abel 
-<a href="https://abela-portifolio.netlify.app//"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Software+Engineer;Full-stack+Developer" alt="Typing SVG" /></a>
+<a href="https://abela-portifolio.netlify.app//"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Full-stack+Developer" alt="Typing SVG" /></a>
 
 
 - 🔭 I’m currently working on React | NodeJs | Express ...
