@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 ## About Me
 Hello there! I'm Abel Ayalew, a passionate software developer with a love for coding and problem-solving. I enjoy working on web development projects.
-
+![abela2112's Stats](https://github-readme-stats.vercel.app/api?username=abela2112&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
 ## Skills
 - Programming Languages: Javascript,typescript,java,C++,python,php
 - Frameworks and Libraries: NextJs,Expressjs,React, Laravel,Angular
