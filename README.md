@@ -1,4 +1,4 @@
-## Hi there 👋 
+### Hi there 👋 
 
 <!--
 **abela2112/abela2112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### 🔭 I’m currently working on React | Node | Expressjs |React Native
+### -🔭 I’m currently working on React | Node | Expressjs |React Native
 ###    Open for Remote Jobs
-### 👯 I’m looking to collaborate on a Web project using React & NodeJs
-### 🤔 I’m looking for help with a full-time job...
-### 💬 Ask me about React | NodeJs | Typescript ..
-### 📫 How to reach me: https://www.linkedin.com/in/abel-ayalew-528787195/
+### - 👯 I’m looking to collaborate on a Web project using React & NodeJs
+### - 🤔 I’m looking for help with a full-time job...
+### - 💬 Ask me about React | NodeJs | Typescript ..
+### - 📫 How to reach me: https://www.linkedin.com/in/abel-ayalew-528787195/
