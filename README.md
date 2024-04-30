@@ -63,7 +63,7 @@ Hello there! I'm Abel Ayalew, a passionate software developer with a love for co
 ## Projects
 Here are some of the projects I've worked on:
 
-- [Admin_dashboard]([https://shoppfy-admin-dashboard.netlify.app]): Brief description of the project.
+- [Admin_dashboard](https://shoppfy-admin-dashboard.netlify.app): Brief description of the project.
 - [Music-app](link-to-project-2): Brief description of the project.
 - [Airbnb clone] (link-to-project-3): Brief description of the project.
 
