@@ -39,8 +39,8 @@ Hello there! I'm Abel Ayalew, a passionate software developer with a love for co
 Here are some of the projects I've worked on:
 
 - [Admin_dashboard](link-to-project-1): Brief description of the project.
-- Music-app(link-to-project-2): Brief description of the project.
-- Airbnb clone (link-to-project-3): Brief description of the project.
+- [Music-app](link-to-project-2): Brief description of the project.
+- [Airbnb clone] (link-to-project-3): Brief description of the project.
 
 ## Contact Me
 - Email: abela9326@gmail.com
