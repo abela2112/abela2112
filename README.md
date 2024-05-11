@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on a Web project using React & NodeJs
 - 🤔 I’m looking for help with a full-time job...
 - 💬 Ask me about React | NodeJs | Typescript ...
-- 📫 How to reach me: https://www.linkedin.com/in/mikiyas-wendmneh/
+- 📫 How to reach me:https://www.linkedin.com/in/abel-ayalew-abebe
 - ⚡ Fun fact: I build furniture
 
   
