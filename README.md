@@ -67,6 +67,11 @@ Here are some of the projects I've worked on:
 - [Admin_dashboard](https://shoppfy-admin-dashboard.netlify.app)
 - [Bella shop](https://bellashop12.netlify.app): 
 - [Airbnb clone](https://airdrop-clone.netlify.app):
+- [social media](https://socal-media-754802.netlify.app):
+- [gym](https://taupe-profiterole-fc2b65.netlify.app):
+- [realtor|Realstate](https://sparkly-conkies-20d7e3.netlify.app):
+- 
+- 
 ## Contact Me
 - Email: abela9326@gmail.com
 - LinkedIn:https://www.linkedin.com/in/abel-ayalew-528787195/ 
